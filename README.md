@@ -98,7 +98,11 @@ Verify a peer-to-peer negotiation server certificate.
 ### Developers
 - Ollie Killean  -  [GitHub](https://github.com/sysollie) [Twitter](https://twitter.com/sysollie_)
 
-## License
+## Legal    
+### Brand    
+OpenSend's Branding terms can be found at [https://opensend.net/brand](https://opensend.net/brand).    
+
+### License    
 ```
 MIT License
 
