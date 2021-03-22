@@ -1,5 +1,5 @@
 {
-  "name": "@opensend/verifier",
+  "name": "@opensend/certificates",
   "version": "1.0.0",
   "description": "OpenSend certificate verifier",
   "main": "Certificates.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OpenSend-Technologies/Verifier.git"
+    "url": "git+https://github.com/OpenSend-Technologies/Certificates.git"
   },
   "keywords": [
     "opensend"
@@ -16,12 +16,12 @@
   "author": "OpenSend Technologies",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OpenSend-Technologies/Verifier/issues"
+    "url": "https://github.com/OpenSend-Technologies/Certificates/issues"
   },
   "homepage": "https://opensend.net",
   "dependencies": {
     "node-fetch": "^2.6.1",
-    "node-forge": "^0.10.0",
-    "split-ca": "^1.0.1"
-  }
+    "node-forge": "^0.10.0"
+  },
+  "devDependencies": {}
 }
